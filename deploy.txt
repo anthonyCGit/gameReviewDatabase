@@ -1,0 +1,12 @@
+Our project is hosted on our own account and does not have a static or friendly URL.
+
+MySql:
+username: testuser
+password: mypassword
+
+Self deployment:
+Run a lamp-vm with phpyMyAdmin and ICEcoder installed.
+Set up a user with username: 'testuser' and password 'mypassword'.
+Import gamereview.sql into phpMyAdmin with default settings.
+Place the frontend code in the "project" folder into a "/[ROOT]/project" folder in ICECoder.
+Right, click and open the index as a webpage.
