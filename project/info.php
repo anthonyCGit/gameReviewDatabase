@@ -1,6 +1,6 @@
 <?php require_once('config.php'); ?>
 <!-- TCSS 445 : Autumn 2022 -->
-<!-- DB Games: Anthony Carrillo, TM1, TM2, TM3 -->
+<!-- DB Games: Anthony Carrillo, Wei Wei Chien, Lucas Dahl, Alec Dowty -->
 <!-- Displays general information on a specific game -->
 <!DOCTYPE html>
 <html lang="en">
