@@ -1,6 +1,6 @@
 -- Game Review Database
 -- Creates a game review backend that stores games, reviews, tags, developers, and other related information.
--- DB Games: Anthony Carrillo, TM1, TM2, TM3
+-- DB Games: Anthony Carrillo, Wei Wei Chien, Lucas Dahl, Alec Dowty
 
 DROP DATABASE IF EXISTS `gamereview`;
 CREATE DATABASE IF NOT EXISTS `gamereview`;
