@@ -1,9 +1,9 @@
 
 Authors
 Anthony Carrillo ajc77@uw.edu
-Teammember 1
-Teammember 2
-Teammember 3
+Wei Wei Chien weiwei88@uw.edu
+Lucas Dahl lucasd12@uw.edu
+Alec Dowty dowtya@uw.edu
 
 
 Our project used phpMyAdmin and ICECoder on a lamp-vm to display the UI and handle the database.
